@@ -1,0 +1,79 @@
+body{
+	margin: 0px;      /*Div doesn’t reach edge of browser page*/
+	padding: 0px;
+}
+#top
+{height: 100px;
+background-color: #CBE32D;
+}
+#top-heading
+{	text-align: center;
+	display: inline;
+	margin-left: 400px;
+}
+.top
+{
+	color: red;
+}
+#second
+{
+	background-color: green;
+	height: 10px;
+}
+h3
+{
+	/*text-align: center;*/
+	font-weight: bold;
+	color: blue;
+	display: inline;
+	padding-top: 30px;
+}
+#footer
+{
+	height: 80px;
+background-color: #CBE32D;
+}
+a
+{
+	display: inline;
+}
+.contact
+{	float: right;
+	height: 50px;
+	width: 50px;
+	padding: 10px;
+}
+#newQuote
+{
+	width: 150px;
+	margin-left:270px;
+	margin-top: 15px;
+}
+#post
+{	background-color: #FF7F00;
+	margin: auto;
+	height: 350px;
+	width: 700px;
+}
+#btn
+{	margin: auto;
+	height: 80px;
+	width: 700px;
+}
+blockquote {
+  font: 18px/30px normal Tahoma, sans-serif;
+  padding-top: 22px;
+  margin: 5px;
+  color: white;
+  font-weight: bold;
+  /*background-image: url(openquote1.gif);
+  background-position: top left;
+  background-repeat: no-repeat;*/
+  text-indent: 65px;
+  }
+  /*blockquote.style3 span {
+    display: block;
+    background-image: url(closequote1.gif);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+} */
