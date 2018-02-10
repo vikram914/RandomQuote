@@ -77,3 +77,7 @@ blockquote {
     background-repeat: no-repeat;
     background-position: bottom right;
 } */
+img
+{
+	max-width:100%;height:auto;
+}
